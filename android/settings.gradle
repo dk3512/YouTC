@@ -1,0 +1,3 @@
+rootProject.name = 'YouTC'
+
+include ':app'
