@@ -65,7 +65,7 @@ const portraitStyles = StyleSheet.create({
 
 const landscapeStyles = StyleSheet.create({
     container: {
-        flex: 6,
+        flex: 5,
         flexDirection: 'row',
         alignItems: 'center',
         justifyContent: 'center'

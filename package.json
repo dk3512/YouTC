@@ -1,5 +1,5 @@
 {
-  "name": "YouTC",
+  "name": "youtc",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,7 +9,8 @@
   "dependencies": {
     "@babel/runtime": "^7.1.2",
     "react": "16.5.0",
-    "react-native": "^0.57.1"
+    "react-native": "^0.57.1",
+    "react-native-hide-android-navigation-bar": "file:./HideAndroidNavigationBar"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
